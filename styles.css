@@ -16,4 +16,11 @@ body{
 
 .book{
 	background-color:#2ecc71;
+    padding:20px;
+}
+
+.price{
+	text-align:center;
+	color:white;
+	background-color:green;
 }
