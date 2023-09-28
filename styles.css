@@ -16,7 +16,13 @@ body{
 
 .book{
 	background-color:#2ecc71;
-    padding:20px;
+    margin:20px;
+    width:50%;
+
+}
+
+img{
+  padding-inline:20px;
 }
 
 .price{
