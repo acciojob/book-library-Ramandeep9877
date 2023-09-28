@@ -7,4 +7,13 @@ body{
 	background-color:#ffffff;
 	display:flex;
 	flex-direction:column;
+	align-items:center;
+}
+
+.author{
+	color:#777777;
+}
+
+.book{
+	background-color:#2ecc71;
 }
